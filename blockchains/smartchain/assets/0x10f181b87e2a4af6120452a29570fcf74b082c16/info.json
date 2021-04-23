@@ -1,0 +1,33 @@
+{
+    "name": "SafeZone",
+    "website": "https://safezone.finance//",
+    "description": "With the SafeZone token there is no need to stake or lock up your tokens anywhere to receive rewards. Just hold SafeZone tokens in your wallet and watch your balance increase.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Safezonefinance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/safezonefinance"
+        },
+        {
+            "name": "Medium",
+            "url": "https://safezonefinance.medium.com"
+        },
+        {
+            "name": "Youtube",
+            "url": "https://www.youtube.com/channel/UC1qt71EFdSOJ__b228V0O_w/"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/safezonefinance"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x10f181b87e2a4af6120452a29570fcf74b082c16",
+    "type": "BEP20",
+    "symbol": "SafeZone",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x10f181b87e2a4af6120452a29570fcf74b082c16"
+}
